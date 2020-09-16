@@ -13,7 +13,7 @@ me{
    background: limegreen;
   color: white;
   padding: 10px;
-  position: absolute; /* This makes the <p> freely movable */
-  bottom: 10px; /* 10px from the bottom */
+  position: absolute; 
+  bottom: 10px;
    left: 20px; 
 }

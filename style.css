@@ -1,3 +1,19 @@
 h3, p {
    align-content:center;
 }
+
+aboutme {
+ background: gold;
+  height: 200px;
+  padding: 10px;
+  position: relative;
+}
+
+me{
+   background: limegreen;
+  color: white;
+  padding: 10px;
+  position: absolute; /* This makes the <p> freely movable */
+  bottom: 10px; /* 10px from the bottom */
+   left: 20px; 
+}

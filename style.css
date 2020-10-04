@@ -2,14 +2,14 @@ h3 {
    text-align:right;
 }
 
-.aboutme {
+#aboutme {
  background: gold;
   height: 200px;
   padding: 10px;
   position: relative;
 }
 
-.me{
+#me{
    background: limegreen;
   color: white;
   padding: 10px;
